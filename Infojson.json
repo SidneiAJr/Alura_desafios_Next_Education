@@ -1,41 +1,62 @@
-{
- "nome_produto": "PRODUTO A",
-  "preco": "100",
-   "quatidade":"50",
-  "produtor":"PRODUTOR B",
-  "nome_produto": "PRODUTO B",
-	"preco": "100",
-   "quatidade":"50",
-  "produtor":"PRODUTOR C",
-  "nome_produto": "PRODUTO C",
-	"preco": "100",
-   "quatidade":"50",
-  "produtor":"PRODUTOR D",
-  "nome_produto": "PRODUTO D",
-	"preco": "100",
-   "quatidade":"50",
-  "produtor":"PRODUTOR E",
-  "nome_produto": "PRODUTO E",
-	"preco": "100",
-   "quatidade":"50",
-  "produtor":"PRODUTOR F",
-  "nome_produto": "PRODUTO F",
-	"preco": "100",
-   "quatidade":"50",
-  "produtor":"PRODUTOR G",
-  "nome_produto": "PRODUTO G",
-	"preco": "100",
-   "quatidade":"50",
-  "produtor":"PRODUTOR H",
-  "nome_produto": "PRODUTO H",
-	"preco": "100",
-   "quatidade":"50",
-  "produtor":"PRODUTOR I",
-  "nome_produto": "PRODUTO I",
-	"preco": "100",
-   "quatidade":"50",
-  "produtor":"PRODUTOR J",
-  "nome_produto": "PRODUTO J",
-	"preco": "100",
-   "quatidade":"50",
-}
+[
+    {
+        "nome_produto": "PRODUTO A",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR B"
+    },
+    {
+        "nome_produto": "PRODUTO B",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR C"
+    },
+    {
+        "nome_produto": "PRODUTO C",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR D"
+    },
+    {
+        "nome_produto": "PRODUTO D",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR E"
+    },
+    {
+        "nome_produto": "PRODUTO E",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR F"
+    },
+    {
+        "nome_produto": "PRODUTO F",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR G"
+    },
+    {
+        "nome_produto": "PRODUTO G",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR H"
+    },
+    {
+        "nome_produto": "PRODUTO H",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR I"
+    },
+    {
+        "nome_produto": "PRODUTO I",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR J"
+    },
+    {
+        "nome_produto": "PRODUTO J",
+        "preco": "100",
+        "quantidade": "50",
+        "produtor": "PRODUTOR K"
+    }
+]
