@@ -29,8 +29,9 @@ VALUES('PRODUTO J',10,5,'PRODUTOR J');
 INSERT INTO estoqueloja(nome_produto,valor,quant_estoque,fabricante)
 VALUES('PRODUTO K',10,5,'PRODUTOR K');   
 
--- Deleteando informação para o banco de dados da alura
+-- Deleteando informação para o banco de dados da alura:
 DELETE FROM estoqueloja WHERE nome_produto = 'PRODUTO B';
 DELETE FROM estoqueloja WHERE nome_produto = 'PRODUTO A';
 DELETE FROM estoqueloja WHERE nome_produto = 'PRODUTO C';
 DELETE FROM estoqueloja WHERE nome_produto = 'PRODUTO D';
+
